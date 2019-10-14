@@ -23,13 +23,13 @@ namespace RPG.SceneManagement
             }
         }
 
-        private void Save()
+        public void Save()
         {
             //call to saving system
             GetComponent<SavingSystem>().Save(deafualtSaveFile);
         }
 
-        private void Load()
+        public void Load()
         {
             //call to saving system 
             GetComponent<SavingSystem>().Load(deafualtSaveFile);
