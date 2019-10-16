@@ -757,6 +757,11 @@ PrefabInstance:
       propertyPath: sceneToLoad
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8420542774054406666, guid: 07fb5120e2c471a4baeaaeeda5dc5615,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 07fb5120e2c471a4baeaaeeda5dc5615, type: 3}
 --- !u!4 &1552486836 stripped
@@ -923,12 +928,12 @@ PrefabInstance:
     - target: {fileID: 8420542774054406666, guid: 07fb5120e2c471a4baeaaeeda5dc5615,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.07
+      value: 0.12
       objectReference: {fileID: 0}
     - target: {fileID: 8420542774054406666, guid: 07fb5120e2c471a4baeaaeeda5dc5615,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1.44
+      value: 5.32
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 07fb5120e2c471a4baeaaeeda5dc5615, type: 3}
